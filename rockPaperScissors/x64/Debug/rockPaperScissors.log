@@ -1,4 +1,4 @@
 ﻿  rockPaperScissors.cpp
-c:\users\test\documents\visual studio 2017\projects\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(121): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-c:\users\test\documents\visual studio 2017\projects\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(227): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\test\documents\visual studio 2017\projects\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(131): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\test\documents\visual studio 2017\projects\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(285): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
   rockPaperScissors.vcxproj -> C:\Users\test\Documents\Visual Studio 2017\Projects\rockPaperScissors\x64\Debug\rockPaperScissors.exe
